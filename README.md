@@ -1,0 +1,2 @@
+# bayesianAB
+bayesian AB test 
